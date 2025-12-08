@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7103b51-cc92-41f8-af60-0616b8202bc5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 20 - Snake Game/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20 - Snake Game/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 22 - Pong Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 22 - Pong Game/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +34,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ball.executor": "Run",
     "Python.food.executor": "Run",
     "Python.game.executor": "Run",
     "Python.index.executor": "Run",
     "Python.inheritance.executor": "Run",
+    "Python.main.,py.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.paddle.executor": "Run",
     "Python.painting.executor": "Run",
     "Python.question_model.executor": "Run",
     "Python.quiz_brain.executor": "Run",
