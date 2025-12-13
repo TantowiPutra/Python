@@ -95,17 +95,18 @@ class Game:
             self.scoreboard.increase_score()
             self.increase_length()
 
+        self.screen.update()
+
         """ Detect Collision With Tail """
         for segment in self.segments[1:]:
             if self.head.distance(segment) < 10:
                 self.scoreboard.game_over()
                 is_game_over = True
 
-        if is_game_over == True:
+        if is_game_over:
             return
 
-        self.screen.update()
-        self.screen.ontimer(self.game_loop, 200)
+        self.screen.ontimer(self.game_loop, 100)
 
     def go_up(self):
         if self.head.heading() != 270:

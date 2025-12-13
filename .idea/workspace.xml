@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7103b51-cc92-41f8-af60-0616b8202bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 23 - Turtle Crossing Game/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Turtle Crossing Game/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Turtle Crossing Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Turtle Crossing Game/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Turtle Crossing Game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 20 - Snake Game/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 24 - Python File/mail_merge_project/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 24 - Python File/mail_merge_project/Input/Names/invited_name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 24 - Python File/mail_merge_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 24 - Python File/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 24 - Python File/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20 - Snake Game/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20 - Snake Game/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 20 - Snake Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 20 - Snake Game/scoreboard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -52,6 +58,7 @@
     "Python.question_model.executor": "Run",
     "Python.quiz_brain.executor": "Run",
     "Python.scoreboard.executor": "Run",
+    "Python.test.executor": "Run",
     "Python.turtle_race.executor": "Run",
     "Python.unpacking.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,6 +73,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Turtle" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Object Oriented Programming\quiz_game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 24 - Python File\mail_merge_project\Input\Letters" />
     </key>
   </component>
   <component name="SharedIndexes">

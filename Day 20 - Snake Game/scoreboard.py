@@ -6,6 +6,11 @@ class Scoreboard(Turtle):
 
     def __init__(self):
         super().__init__()
+
+        with open("./data.txt") as file:
+            prev_high_score = file.read()
+            self.high_score = int(prev_high_score)
+
         self.score = 0
         self.color("white")
         self.hideturtle()
@@ -15,14 +20,20 @@ class Scoreboard(Turtle):
 
     def update_scoreboard(self):
         self.clear()
-        self.write(f"Score: {self.score}", align=self.ALIGNMENT, font=self.FONT)
+        self.write(f"Score: {self.score} High Score: {self.high_score}", align=self.ALIGNMENT, font=self.FONT)
 
     def increase_score(self):
         self.score += 1
+        self.is_new_high()
         self.update_scoreboard()
 
+    def is_new_high(self):
+        if self.score > self.high_score:
+            self.high_score = self.score
+            with open("./data.txt", mode="w") as file:
+                file.write(str(self.high_score))
+
     def game_over(self):
-        # Move to top score should remain visible if you want
         self.goto(0, 0)
         self.write("GAME OVER", align="center", font=('Courier', 40, 'bold'))
 
