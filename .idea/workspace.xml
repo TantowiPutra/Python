@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7103b51-cc92-41f8-af60-0616b8202bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 28 - Tktinker, Dynamic Typing, Pomodoro GUI App/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 28 - Tktinker, Dynamic Typing, Pomodoro GUI App/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,17 +63,17 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/LearnPython/Day 28 - Tktinker, Dynamic Typing, Pomodoro GUI App",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/LearnPython/Day 29 - Password Manager GUI App",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 29 - Password Manager GUI App" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 28 - Tktinker, Dynamic Typing, Pomodoro GUI App" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 26 - List - Dictionary Comprehension\Nato Alphabet" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File (Pandas)\us_states_game" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File (Pandas)\squirel_consensus" />
-      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File (Pandas)" />
