@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7103b51-cc92-41f8-af60-0616b8202bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30 - Error Handling, JSON/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

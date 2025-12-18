@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 import random
 import pyperclip
+import json
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def generate_password():
     global password_entry
@@ -36,6 +37,10 @@ def add_new_password():
     website        = website_entry.get()
     email_username = email_username_entry.get()
     password       = password_entry.get()
+    new_data       = {website: {
+        "email": email_username,
+        "password": password,
+    }}
 
     if len(website) == 0:
         messagebox.showinfo(title="Field Empty", message="Website Name cannot be Empty!")
@@ -52,10 +57,25 @@ def add_new_password():
     is_ok  = messagebox.askokcancel(title=website, message=f"These are the details entered: \nEmail: {email_username} \nPassword: {password} \n Is it ok to save? ")
 
     if is_ok:
-        with open("data.txt", "a") as file:
-            file.write(f"{website} | {email_username} | {password}\n")
+        with open("data.json", "r") as file:
+            data = json.load(file)
+            """ Method Punya Dictionary Untuk Merge Dictionary """
+            data.update(new_data)
+
             website_entry.delete(0, END)
             password_entry.delete(0, END)
+
+        with open("data.json", "w") as file:
+            json.dump(data, file, indent=4)
+
+            website_entry.delete(0, END)
+            password_entry.delete(0, END)
+
+
+
+# ---------------------------- SEARCH WEBSITE ------------------------------- #
+def search_website():
+    pass
 
 # ---------------------------- UI SETUP ------------------------------- #
 """ Initiate Window """
@@ -74,7 +94,10 @@ website_label = Label(text="Website:", font=("Arial", 12, 'normal'))
 website_label.grid(row=1, column=0)
 website_entry = Entry(width=30)
 website_entry.focus()
-website_entry.grid(row=1, column=1, columnspan=2, sticky="ew")
+website_entry.grid(row=1, column=1, sticky="ew")
+
+search_button = Button(text="Search", command=search_website, bg="blue", fg="white")
+search_button.grid(row=1, column=2, sticky="ew")
 
 email_username_label = Label(text="Email/Username: ", font=("Arial", 12, 'normal'))
 email_username_label.grid(row=2, column=0)
