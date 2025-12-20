@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7103b51-cc92-41f8-af60-0616b8202bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 30 - Error Handling, JSON/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 32 - Send Email (smtplib)/date_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 32 - Send Email (smtplib)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 32 - Send Email (smtplib)/quotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 32 - Send Email (smtplib)/send_motivational_quotes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 29 - Password Manager GUI App/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
     "Python.args.executor": "Run",
     "Python.ball.executor": "Run",
     "Python.car.executor": "Run",
+    "Python.date_time.executor": "Run",
     "Python.food.executor": "Run",
     "Python.game.executor": "Run",
     "Python.index.executor": "Run",
@@ -55,6 +59,7 @@
     "Python.question_model.executor": "Run",
     "Python.quiz_brain.executor": "Run",
     "Python.scoreboard.executor": "Run",
+    "Python.send_motivational_quotes.executor": "Run",
     "Python.test.executor": "Run",
     "Python.turtle_race.executor": "Run",
     "Python.unpacking.executor": "Run",
@@ -62,17 +67,17 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/LearnPython/Day 29 - Password Manager GUI App",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/LearnPython/Day 32 - Send Email (smtplib)",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 32 - Send Email (smtplib)" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 29 - Password Manager GUI App" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 28 - Tktinker, Dynamic Typing, Pomodoro GUI App" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 26 - List - Dictionary Comprehension\Nato Alphabet" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File (Pandas)\us_states_game" />
-      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File (Pandas)\squirel_consensus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 25 - CSV File (Pandas)" />
