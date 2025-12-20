@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7103b51-cc92-41f8-af60-0616b8202bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 33 - API Endpoints &amp; API Parameters/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33 - API Endpoints &amp; API Parameters/kanye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33 - API Endpoints &amp; API Parameters/kanye_quotes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33 - API Endpoints &amp; API Parameters/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33 - API Endpoints &amp; API Parameters/sun_rise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 33 - API Endpoints &amp; API Parameters/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +39,7 @@
     "Python.args.executor": "Run",
     "Python.ball.executor": "Run",
     "Python.car.executor": "Run",
+    "Python.data.executor": "Run",
     "Python.date_time.executor": "Run",
     "Python.food.executor": "Run",
     "Python.game.executor": "Run",
@@ -65,22 +60,23 @@
     "Python.sun_rise.executor": "Run",
     "Python.test.executor": "Run",
     "Python.turtle_race.executor": "Run",
+    "Python.ui.executor": "Run",
     "Python.unpacking.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/LearnPython/Day 33 - API Endpoints & API Parameters",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/LearnPython/Day 34 - GUI Quiz App",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 34 - GUI Quiz App" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 33 - API Endpoints &amp; API Parameters" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 32 - Send Email (smtplib)" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 29 - Password Manager GUI App" />
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 28 - Tktinker, Dynamic Typing, Pomodoro GUI App" />
-      <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 26 - List - Dictionary Comprehension\Nato Alphabet" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\LearnPython\Day 33 - API Endpoints &amp; API Parameters" />
